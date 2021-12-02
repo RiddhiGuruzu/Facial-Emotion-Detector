@@ -1,4 +1,4 @@
-#librries to be installed
+#libries to be installed
 import PySimpleGUI as sg
 import cv2
 from deepface import DeepFace
